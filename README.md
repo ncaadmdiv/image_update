@@ -2,17 +2,16 @@
 Just use javascript, no need jQuery, php.
 
 ## Usage
-If you want to use your own clientID , you can change it [here](https://github.com/ncaadmdiv/image_update
-/blob/master/js/upload.js#L11) :
+If you want to use your own clientID , you can change it [here](https://github.com/ncaadmdiv/image_update/blob/master/js/upload.js#L11) :
 ```
 new Imgur({ 
-    clientid: '4409588f10776f7', //You can change this ClientID
+    clientid: '0e6bf442542a05a', //You can change this ClientID
     callback: feedback 
 });
 ```
 
 ## Demo
-[Demo](https://ncaadmdiv.github.io/Imgur-Upload/)
+[Demo](https://ncaadmdiv.github.io/image_update/)
 
 ## Download
-[Link](https://github.com/ncaadmdiv/Imgur-Upload/releases/)
+[Link](https://github.com/ncaadmdiv/image_update/releases/)
